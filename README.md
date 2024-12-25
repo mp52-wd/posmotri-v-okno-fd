@@ -1,1 +1,5 @@
-﻿https://github.com/mp52-wd/posmotri-v-okno-fd
+﻿# Проектная работа «Посмотри в окно»
+
+https://github.com/mp52-wd/posmotri-v-okno-fd
+
+В этой проектной работе мне предстоит написать CSS для уже работающего приложения «Посмотри в окно». Мне потребуется дополнить файл `style.css` так, чтобы интерфейс соответствовал [макету проекта](https://www.figma.com/design/ajYUWLsbpI49tGn91M8uIt/2-спринт.-Проектная-работа?node-id=0-1&t=26DLIoiIVKfI0RN8-1).
